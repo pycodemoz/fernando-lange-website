@@ -24,6 +24,12 @@ COURSES = [
         'id': 4,
         'title': "Curso de Django",
         'image': "static/django.jpeg"
+    },
+    
+    {
+        'id': 5,
+        'title': "Curso de Django Rest Framework",
+        'image': "static/rest_framework.png"
     }
 ]
 
